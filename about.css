@@ -1,0 +1,180 @@
+
+body{
+    background: #404d4d;
+}
+
+h1 {
+	color:#DEF2F1;
+	text-align: center;
+	font-family: "Century Gothic";
+	font-size: 50px;
+	font-weight: bolder;
+    margin: auto;
+    margin-top: 5%;
+}
+.aucontext {
+	color: #DEF2F1;
+	text-align: justify;
+	font-family: "Century Gothic";
+    margin-top:20%;
+    margin: 5%;
+	font-size: 500%;
+	
+}
+.aucenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	padding: 50px;
+	height: 30%;
+}
+.aubackground {
+	
+	background-color:#0a0a0a50  ;
+	margin: 0px;
+}
+.tagline {
+	color: #DEF2F1;
+	font-family: Century Gothic;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+p{
+	font-size: 80%;
+}
+@media screen and (max-width:600px){
+   
+    h1 {
+		color:#DEF2F1;
+		text-align: center;
+		font-family: "Century Gothic";
+		font-size: 60px;
+		font-weight: bolder;
+		margin: auto;
+		margin-top: 5%;
+	}
+	.aucontext {
+		color: #DEF2F1;
+		text-align: justify;
+		font-family: "Century Gothic";
+		margin-top:20%;
+		margin: 5%;
+		font-size: 100%;
+		
+	}
+	.aucenter{
+		display: block;
+		width: 40px;
+		padding: 50px;
+		height: 40px;
+	}
+	.aubackground {
+		
+		background-color:#0a0a0a50  ;
+		margin: 0px;
+		
+		background-repeat: no-repeat;
+	}
+	.tagline {
+		color: #DEF2F1;
+		font-family: Century Gothic;
+		text-align: center;
+		font-weight: bolder;
+		font-size: 30px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+}
+@media screen and (min-width:600px) and (max-width:768px){
+ 
+    h1 {
+		color:#DEF2F1;
+		text-align: center;
+		font-family: "Century Gothic";
+		font-size: 50px;
+		font-weight: bolder;
+		margin: auto;
+		margin-top: 5%;
+	}
+	.aucontext {
+		color: #DEF2F1;
+		text-align: justify;
+		font-family: "Century Gothic";
+		margin-top:20%;
+		margin: 5%;
+		font-size: 100%;
+		
+	}
+	.aucenter{
+		display: block;
+		width: 20%;
+		padding: 30px;
+		height: 20%;
+	}
+	.aubackground {
+		
+		background-color:#0a0a0a50  ;
+		margin: 0px;
+		
+		background-repeat: no-repeat;
+	}
+	.tagline {
+		color: #DEF2F1;
+		font-family: Century Gothic;
+		text-align: center;
+		font-weight: bolder;
+		font-size: 30px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+}
+
+
+@media screen and (min-width:768px){
+   
+    h1 {
+		color:#DEF2F1;
+		text-align: center;
+		font-family: "Century Gothic";
+		font-size: 50px;
+		font-weight: bolder;
+		margin: auto;
+		margin-top: 5%;
+	}
+	.aucontext {
+		color: #DEF2F1;
+		text-align: justify;
+		font-family: "Century Gothic";
+		margin-top:20%;
+		margin: 5%;
+		font-size: 100%;
+		
+	}
+	.aucenter{
+		display: block;
+		width: 10%;
+		padding: 20px;
+		height: 20%;
+	}
+	.aubackground {
+		
+		background-color:#0a0a0a50  ;
+		margin: 0px;
+		background-repeat: no-repeat;
+	}
+	.tagline {
+		color: #DEF2F1;
+		font-family: Century Gothic;
+		text-align: center;
+		font-weight: bolder;
+		font-size: 30px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+}
+
+
